@@ -1,4 +1,4 @@
-# simple Chatbot with Node and Watson
+# Simple Chatbot with Node.js and Watson
 
 Sample Chatbot with Watson IBM and Node.js
 
