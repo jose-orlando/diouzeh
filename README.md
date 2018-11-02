@@ -1,4 +1,4 @@
-# Jose Orlando
+# simple Chatbot with Node and Watson
 
 Sample Chatbot with Watson IBM and Node.js
 
